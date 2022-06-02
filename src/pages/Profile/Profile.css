@@ -1,0 +1,11 @@
+.profile {
+  height: 100%;
+  background-color: beige;
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
