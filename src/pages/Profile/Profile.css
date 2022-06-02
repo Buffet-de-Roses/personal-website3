@@ -1,8 +1,15 @@
 .profile {
   height: 100%;
-  background-color: beige;
   display: flex;
   flex-direction: row;
+}
+
+.work {
+  background-color: beige;
+}
+
+.sleep {
+  background-color: black;
 }
 
 p {

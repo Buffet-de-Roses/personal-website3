@@ -16,7 +16,7 @@
   border-radius: 50%;
   height: 250px;
   width: 250px;
-  border: 0px;
+  border: 1px solid white;
   object-fit: cover;
   cursor: pointer;
   position: absolute;
@@ -42,7 +42,7 @@
 }
 
 .second {
-  animation: wave 5s 3s infinite;
+  animation: wave 5s 2.5s infinite;
 }
 
 .third {
