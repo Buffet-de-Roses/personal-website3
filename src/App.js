@@ -7,16 +7,15 @@ import {
 import { useEffect, useState } from 'react';
 import Home from './pages/Home/Home';
 import Profile from './pages/Profile/Profile';
-import Switch from './components/switch';
+// import Switch from './components/switch';
 import { workTime } from './components/helper';
 
 function App() {
   const [workHour, setWorkHour] = useState(false);
 
-  const passData = (data) => {
-    setWorkHour(data);
-    console.log(workHour);
-  }
+  // const passData = (data) => {
+  //   setWorkHour(data);
+  // }
 
   useEffect(() => {
     setWorkHour(workTime());
@@ -30,7 +29,7 @@ function App() {
           <Route exact path='/profile' element={<Profile work={workHour}/>}></Route>
         </Routes>
       </Router>
-      <Switch work={workHour} passData={passData} className='switch'/>
+      {/* <Switch work={workHour} passData={passData} className='switch'/> */}
     </div>
   );
 }

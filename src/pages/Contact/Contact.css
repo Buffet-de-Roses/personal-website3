@@ -1,0 +1,29 @@
+.contact {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#phone:hover:after {
+  content: ': +33642554972';
+}
+
+#email:hover:after {
+  content: ': tom.marescot@epitech.eu'; 
+}
