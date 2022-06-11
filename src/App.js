@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className='app'>
-      <Router>
+      <Router basename='/personal-website3'>
         <Routes>
           <Route exact path='/' element={<Home work={workHour} />}></Route>
           <Route exact path='/profile' element={<Profile work={workHour}/>}></Route>
