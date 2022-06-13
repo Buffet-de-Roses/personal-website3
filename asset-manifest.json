@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/personal-website3/static/css/main.73cad5f9.css",
+    "main.js": "/personal-website3/static/js/main.ad9bd5f4.js",
+    "static/media/IMG_1392.JPG": "/personal-website3/static/media/IMG_1392.1350281ea2bbcca8a1a3.JPG",
+    "static/media/icilaba.jpeg": "/personal-website3/static/media/icilaba.fb52dc9a41bcd799096b.jpeg",
+    "static/media/profile-pic.png": "/personal-website3/static/media/profile-pic.f316ca722955d8268cd4.png",
+    "static/media/epitech.png": "/personal-website3/static/media/epitech.99723a77d2044a1a4247.png",
+    "static/media/membres-viaccess.jpeg": "/personal-website3/static/media/membres-viaccess.3479a749ee8f16a84934.jpeg",
+    "static/media/mytribe.png": "/personal-website3/static/media/mytribe.f8b3f999938b2d52bde3.png",
+    "static/media/location.png": "/personal-website3/static/media/location.a405c2668c55f74c09be.png",
+    "index.html": "/personal-website3/index.html",
+    "main.73cad5f9.css.map": "/personal-website3/static/css/main.73cad5f9.css.map",
+    "main.ad9bd5f4.js.map": "/personal-website3/static/js/main.ad9bd5f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73cad5f9.css",
+    "static/js/main.ad9bd5f4.js"
+  ]
+}
