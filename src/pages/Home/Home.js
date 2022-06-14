@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import sleepPic from '../../assets/pic/profile-pic.png';
-import workPic from '../../assets/pic/IMG_1392.JPG';
+import workPic from '../../assets/pic/me.jpg';
 import './Home.css';
 
 export default function Home(props) {

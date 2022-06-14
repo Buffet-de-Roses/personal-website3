@@ -1,5 +1,5 @@
 import './Me.css';
-import profile from '../../assets/pic/IMG_1392.JPG'
+import profile from '../../assets/pic/me.jpg'
 
 export default function Me() {
   return (
